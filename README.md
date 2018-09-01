@@ -9,4 +9,4 @@ This is a simple quiz app made in the Thinkful fundamentals phase.
 
 Quiz description: 
   Do you know your 'Game of Thrones' history? Test your knowledge in this short 10 question quiz! 
-  Start the quiz here: https://rjwilliams87.github.io/GOT-quizapp/
+  Start the quiz here: 
